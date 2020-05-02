@@ -1,0 +1,5 @@
+name: NPCSyncBungee
+version: 0.1
+author: Kartik Dharmarajan
+main: Mathematician.NPCSyncBungee.NPCSyncBungeeMain
+api-version: 1.12.2
