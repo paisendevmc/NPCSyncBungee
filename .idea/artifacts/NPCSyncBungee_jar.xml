@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NPCSyncBungee:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NPCSyncBungee_jar</output-path>
+    <root id="archive" name="NPCSyncBungee.jar">
+      <element id="module-output" name="NPCSyncBungee" />
+    </root>
+  </artifact>
+</component>
